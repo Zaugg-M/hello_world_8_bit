@@ -6,7 +6,7 @@ The program sets up a class named *CPUVisualiser* that has 3 instructions; load,
 
 This software is to demonstrate that my coding enviroment works.
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/rpQCcOlFdrE?si=S7kN8bmTSd02Hql2))
+[Software Demo Video](https://youtu.be/rpQCcOlFdrE?si=S7kN8bmTSd02Hql2)
 
 # Development Environment
 
